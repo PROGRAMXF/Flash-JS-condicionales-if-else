@@ -1,0 +1,16 @@
+h1{
+    margin: 300px auto 500px;
+    width: 500px;
+    height: 250px;
+    padding: 30px;
+    color: rgb(77, 77, 168);
+    background-color: antiquewhite;
+    border-radius: 4px;
+    text-align: center;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    font-size: 4em;    
+}
+body{
+    background-color: rgb(72, 72, 141);
+}
